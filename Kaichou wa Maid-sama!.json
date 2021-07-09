@@ -4,5 +4,14 @@
   "artist": "Hiro Fujiwara",
   "author": "Hiro Fujiwara",
   "cover": "https://dw9to29mmj727.cloudfront.net/products/1421581353.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Vol. 1 Ch. 1 - The Student Council President is a Maid!",
+      "volume": "1",
+      "last_updated": "1625826796",
+      "groups": {
+        "Maid Sama": "/proxy/api/imgur/chapter/VhR1NuT/"
+      }
+    }
+  }
 }
